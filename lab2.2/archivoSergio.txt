@@ -1,3 +1,10 @@
 este es mi archivo
+HEAD
 ahora es mio
 mio
+
+
+otra vez modificando
+
+alvaro pesao
+63f97933d3e7bd57365ebfb5e4c5ba393a7bfb24
